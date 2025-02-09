@@ -1,0 +1,8 @@
+1. Instalasi MySQL
+2. Membuat table dari CLI
+3. Menambahkan, Menghapus & Mengedit data dari CLi dan Workbench
+4. Melakukan Backup & Restore Data pada table
+
+Next 
+1. Menambahkan kolom baru pada table
+2. Membuat table baru yang terintegrasi ke table ini (rencananya table lainnya berisi table pemasukan dan pengeluaran total setiap bulan)
